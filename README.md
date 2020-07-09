@@ -1,3 +1,4 @@
+<!---
 ### Education
 - [ ] **Ph.D. Biomedical Sciences** (2017 - 2021)
 - [X] **M.Sc. Bioinformatics** (2016 - 2017)
@@ -6,3 +7,4 @@
 ### Publications
 ### Software
 ### Contact
+>
