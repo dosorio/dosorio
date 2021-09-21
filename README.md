@@ -1,10 +1,1 @@
-<!---
-### Education
-- [ ] **Ph.D. Biomedical Sciences** (2017 - 2021)
-- [X] **M.Sc. Bioinformatics** (2016 - 2017)
-- [X] **B.Sc. Biology** (2008 - 2015) [Universidad Industrial de Santander](https://www.uis.edu.co), [Bucaramanga](https://en.wikipedia.org/wiki/Bucaramanga), [Colombia](https://en.wikipedia.org/wiki/Colombia).
-### Research interest
-### Publications
-### Software
-### Contact
->
+My name is Daniel Osorio. I'm a Colombian Computational Biologist. Currently I'm working as a postdoctoral fellow at the Livestrong Cancer Institutes at UT Austin Dell Medical School. I have a doctorate in Biomedical Sciences (Biomedical Genomics and Bioinformatics) from Texas A&M University. My research focuses on software development for the study of high throughput single-cell RNA-seq data, gene regulatory networks, data mining, metabolic modeling and bioactive peptides. I also hold a master’s of science in bioinformatics and a bachelor's of science in biology from Colombian universities.
